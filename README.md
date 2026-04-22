@@ -18,4 +18,4 @@ High-performance browser integration for Visual Studio Code.
 MIT LICENSE 
 
 # Other install method
-Go to the marketplace and search up "Visual Studio Chrome
+Go to the marketplace and search up "Visual Studio Chrome"
